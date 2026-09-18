@@ -16,4 +16,4 @@ Sistema para gestionar médicos (titulares, interinos y sustitutos), empleados n
 Entidades principales: **Medicos**, **Empleados**, **Pacientes**, **VacacionesMedicos**, **VacacionesEmpleados**.
 
 
-
+<img width="1058" height="648" alt="image" src="https://github.com/user-attachments/assets/1a5eade0-b4da-4670-89d9-7986d2ae9273" />
