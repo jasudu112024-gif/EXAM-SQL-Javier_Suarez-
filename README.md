@@ -13,7 +13,5 @@ Sistema para gestionar médicos (titulares, interinos y sustitutos), empleados n
 
 ## Modelo conceptual / lógico
 
-Entidades principales: **Medicos**, **Empleados**, **Pacientes**, **VacacionesMedicos**, **VacacionesEmpleados**.
+Entidades principales: **Medico**, **Médico sustituto** **Empleado**, **Paciente**, **Vacaciones**, **Horario**.
 
-
-<img width="1058" height="648" alt="image" src="https://github.com/user-attachments/assets/1a5eade0-b4da-4670-89d9-7986d2ae9273" />
