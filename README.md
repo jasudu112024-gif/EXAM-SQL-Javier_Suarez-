@@ -4,12 +4,10 @@
 
 Sistema para gestionar médicos (titulares, interinos y sustitutos), empleados no médicos, pacientes, horarios de consulta, sustituciones y vacaciones.
 
-## Contenido del repositorio
-
-- `estructura.sql` — creación de la base de datos y de todas las tablas, con claves primarias, foráneas y restricciones (modelo físico).
-- `datos.sql` — datos de prueba realistas para validar el funcionamiento.
-- `README.md` — este documento: modelo conceptual/lógico y solución a las 20 consultas.
-
+## Contenido del repositorio carpetas
+- `CONSULTAS` — datos de prueba realistas para validar el funcionamiento.
+- `DIAGRAMA ENTIDAD Y LOGICO` — este documento: modelo conceptual/lógico y solución a las consultas.
+- - `DIAGRAMAS FISICOS` — script sql con los datos y la creacion de tablas.
 
 ## Modelo conceptual / lógico
 
